@@ -1,71 +1,65 @@
+<div align="center">
+
 # Hi, I'm Nuran Dewaraja 👋
 
-### Associate Software Engineer | Full-Stack & Mobile Application Developer
+### Associate Software Engineer · Full-Stack & Mobile Application Developer
 
-I'm an **Associate Software Engineer** passionate about building reliable, scalable, and user-focused software solutions.
+I build reliable, scalable, business-focused software — from Android POS terminals
+to the .NET APIs and SQL Server databases behind them.
 
-I work across **web, backend, mobile, and business application development**, with hands-on experience building ERP, POS, inventory, restaurant, and business management systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuran-dewaraja-1106aa325/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuran-Dewaraja)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurandewaraja@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94717876993)
 
-* 💻 Building modern **Web & Enterprise Applications**
-* 📱 Developing **Android applications using Java**
-* ⚙️ Building APIs and backend systems with **C# / .NET**
-* 🌐 Developing frontend applications with **Angular & React**
-* 🗄️ Working with **Microsoft SQL Server & Entity Framework Core**
-* 🧩 Experienced in **ERP, POS, Inventory & Business Management Systems**
-* 🚀 Continuously learning and improving software architecture, performance, and development practices
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Diploma in Software Engineering
-* 💼 Currently working as an **Associate Software Engineer**
-* 🏢 Experienced in developing business-focused software solutions
-* 🔧 Interested in **Full-Stack Development, Mobile Development & Software Architecture**
-* 🌱 Currently expanding my knowledge in modern web technologies and scalable application development
-* 🤝 Open to collaborating on interesting software projects and innovative ideas
+- 🎓 Diploma in Software Engineering
+- 💼 Currently working as an **Associate Software Engineer**
+- 🏢 Experienced building ERP, POS, inventory, restaurant and business management systems
+- 🔧 Focused on Full-Stack Development, Mobile Development & Software Architecture
+- 🌱 Expanding my knowledge in modern web technologies and scalable application design
+- 🤝 Open to collaborating on interesting software projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
+**Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,kotlin" />
 </p>
 
-### 🌐 Frontend Development
-
+**Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind" />
 </p>
 
-### ⚙️ Backend Development
-
+**Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
 </p>
 
-### 📱 Mobile Development
-
+**Mobile**
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
 </p>
 
-### 🗄️ Database & ORM
-
+**Database & ORM**
 <p>
   <img src="https://skillicons.dev/icons?i=mssql,mysql,sqlite" />
 </p>
 
-* Microsoft SQL Server
-* Entity Framework Core
-* Room Database
-* Database Design & Optimization
+- Microsoft SQL Server
+- Entity Framework Core
+- Room Database
+- Database Design & Optimization
 
-### 🔧 Tools & Technologies
-
+**Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,figma" />
 </p>
@@ -75,40 +69,31 @@ I work across **web, backend, mobile, and business application development**, wi
 ## 🚀 What I Build
 
 ### 🏢 Enterprise & ERP Applications
-
-Developing business applications with modules such as:
-
-* Inventory Management
-* Sales & Purchasing
-* Product Management
-* Customer & Supplier Management
-* Reporting Systems
-* User & Permission Management
-* Business Configuration
+Business applications with modules such as:
+- Inventory management
+- Sales & purchasing
+- Product management
+- Customer & supplier management
+- Reporting systems
+- User & permission management
+- Business configuration
 
 ### 🧾 POS & Restaurant Systems
-
-Working with POS solutions involving:
-
-* Sales & Billing
-* KOT / BOT Management
-* Inventory
-* Stock Transfers
-* GRN / MRN
-* Restaurant Back Office
-* Receipt Printing
-* Android POS Applications
+POS solutions covering:
+- Sales & billing
+- KOT / BOT management
+- Inventory, stock transfers, GRN / MRN
+- Restaurant back office
+- Receipt printing
+- Android POS applications
 
 ### 📱 Android Applications
-
-Developing Android applications using:
-
-* Java
-* Android Studio
-* REST APIs
-* Room Database
-* Bluetooth / POS peripherals
-* Thermal receipt printing
+Built with:
+- Java, Android Studio
+- REST APIs
+- Room database
+- Bluetooth / POS peripherals
+- Thermal receipt printing
 
 ---
 
@@ -126,24 +111,16 @@ Architecture    → RESTful APIs • Layered Architecture • Entity-Based Desig
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nuran-Dewaraja&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuran-Dewaraja&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nuran-Dewaraja&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuran-Dewaraja&theme=tokyo-night&hide_border=true" />
@@ -153,22 +130,17 @@ Architecture    → RESTful APIs • Layered Architecture • Entity-Based Desig
 
 ## 🌱 Currently Learning
 
-I'm continuously improving my skills in:
-
-* Advanced .NET & Web API Development
-* React & Modern Frontend Architecture
-* Angular Application Development
-* Android Development
-* Clean Architecture & SOLID Principles
-* Database Optimization
-* Scalable Enterprise Application Design
-* Modern Software Engineering Practices
+- Advanced .NET & Web API development
+- React & modern frontend architecture
+- Angular application development
+- Android development
+- Clean architecture & SOLID principles
+- Database optimization
+- Scalable enterprise application design
 
 ---
 
 ## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, engineers, and people working on interesting technology projects.
 
 <p align="left">
   <a href="https://github.com/Nuran-Dewaraja">
@@ -177,22 +149,20 @@ I'm always interested in connecting with developers, engineers, and people worki
   <a href="https://www.linkedin.com/in/nuran-dewaraja-1106aa325/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:nurandewaraja@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/94717876993">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💡 Developer Mindset
+<div align="center">
 
 > **"Build with purpose. Learn continuously. Improve every day."**
 
-I believe good software is not only about writing code — it's about understanding problems, designing practical solutions, and continuously improving the way we build technology.
+<sub>Thanks for visiting my profile! 🚀 · Happy Coding! 💻</sub>
 
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  <i>Happy Coding!</i> 💻
-</p>
+</div>
