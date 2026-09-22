@@ -1,168 +1,151 @@
 <div align="center">
 
-# Hi, I'm Nuran Dewaraja 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1420,100:4FAE7C&height=200&section=header&text=Nuran%20Dewaraja&fontSize=48&fontColor=E8ECF3&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=8C97AC&animation=fadeIn" />
 
-### Associate Software Engineer · Full-Stack & Mobile Application Developer
+<br/>
 
-I build reliable, scalable, business-focused software — from Android POS terminals
-to the .NET APIs and SQL Server databases behind them.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=3000&pause=800&color=4FAE7C&center=true&vCenter=true&width=600&lines=Building+ERP+%2F+POS+%2F+Inventory+systems;C%23+%2F+.NET+%C2%B7+Angular+%2F+React+%C2%B7+Android;Turning+business+problems+into+software)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuran-dewaraja-1106aa325/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuran-Dewaraja)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurandewaraja@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94717876993)
+<p>
+  <a href="https://www.linkedin.com/in/nuran-dewaraja-1106aa325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Nuran-Dewaraja"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nurandewaraja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/94717876993"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Nuran-Dewaraja&style=for-the-badge&color=4FAE7C&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 📟 whoami
 
-- 🎓 Diploma in Software Engineering
-- 💼 Currently working as an **Associate Software Engineer**
-- 🏢 Experienced building ERP, POS, inventory, restaurant and business management systems
-- 🔧 Focused on Full-Stack Development, Mobile Development & Software Architecture
-- 🌱 Expanding my knowledge in modern web technologies and scalable application design
-- 🤝 Open to collaborating on interesting software projects
+```yaml
+name: Nuran Dewaraja
+role: Associate Software Engineer
+education: Diploma in Software Engineering
+focus: [Full-Stack Development, Mobile Development, Software Architecture]
+domains: [ERP, POS, Inventory, Restaurant Management, Business Systems]
+currently_learning: [.NET/Web API, React architecture, Angular, Clean Architecture, SOLID]
+status: open to collaboration 🤝
+```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 🧱 Stack
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,kotlin" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind" />
-</p>
-
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
-</p>
-
-**Mobile**
-<p>
+<table width="100%">
+<tr>
+<td width="120" valign="top"><b>Mobile</b></td>
+<td>
   <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
-</p>
-
-**Database & ORM**
-<p>
+  <br/><sub>Room DB · Bluetooth &amp; POS peripherals · Thermal receipt printing</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+  <br/><sub>REST APIs · Layered / entity-based architecture</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Data</b></td>
+<td>
   <img src="https://skillicons.dev/icons?i=mssql,mysql,sqlite" />
-</p>
-
-- Microsoft SQL Server
-- Entity Framework Core
-- Room Database
-- Database Design & Optimization
-
-**Tools**
-<p>
+  <br/><sub>Entity Framework Core · Database design &amp; optimization</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Tooling</b></td>
+<td>
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,figma" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
 ## 🚀 What I Build
 
-### 🏢 Enterprise & ERP Applications
-Business applications with modules such as:
-- Inventory management
-- Sales & purchasing
-- Product management
-- Customer & supplier management
-- Reporting systems
-- User & permission management
-- Business configuration
+<table width="100%">
+<tr>
+<th align="left">🏢 Enterprise / ERP</th>
+<th align="left">🧾 POS / Restaurant</th>
+<th align="left">📱 Android</th>
+</tr>
+<tr valign="top">
+<td>
 
-### 🧾 POS & Restaurant Systems
-POS solutions covering:
-- Sales & billing
+- Inventory management
+- Sales &amp; purchasing
+- Customer &amp; supplier management
+- Reporting systems
+- User &amp; permission management
+
+</td>
+<td>
+
+- Sales &amp; billing
 - KOT / BOT management
-- Inventory, stock transfers, GRN / MRN
+- Stock transfers · GRN / MRN
 - Restaurant back office
 - Receipt printing
-- Android POS applications
 
-### 📱 Android Applications
-Built with:
-- Java, Android Studio
-- REST APIs
+</td>
+<td>
+
+- Java · Android Studio
+- REST API integration
 - Room database
-- Bluetooth / POS peripherals
+- Bluetooth POS peripherals
 - Thermal receipt printing
 
----
+</td>
+</tr>
+</table>
 
-## 📌 Featured Technologies
+<br/>
 
-```text
-Frontend        → Angular • React • TypeScript • JavaScript
-Backend         → C# • .NET • REST APIs
-Mobile          → Android • Java • Kotlin
-Database        → SQL Server • SQLite
-ORM             → Entity Framework Core
-Tools           → Git • GitHub • Visual Studio • VS Code • Postman
-Architecture    → RESTful APIs • Layered Architecture • Entity-Based Design
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nuran-Dewaraja&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuran-Dewaraja&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nuran-Dewaraja&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuran-Dewaraja&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced .NET & Web API development
-- React & modern frontend architecture
-- Angular application development
-- Android development
-- Clean architecture & SOLID principles
-- Database optimization
-- Scalable enterprise application design
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/Nuran-Dewaraja">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nuran-dewaraja-1106aa325/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nurandewaraja@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/94717876993">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
----
+## 📊 GitHub Activity
 
 <div align="center">
 
-> **"Build with purpose. Learn continuously. Improve every day."**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nuran-Dewaraja&show_icons=true&theme=dark&bg_color=0D1420&title_color=4FAE7C&icon_color=4FAE7C&text_color=E8ECF3&border_color=263248&hide_border=false&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuran-Dewaraja&layout=compact&theme=dark&bg_color=0D1420&title_color=4FAE7C&text_color=E8ECF3&border_color=263248&hide_border=false" />
 
-<sub>Thanks for visiting my profile! 🚀 · Happy Coding! 💻</sub>
+<img src="https://streak-stats.demolab.com?user=Nuran-Dewaraja&theme=dark&background=0D1420&ring=4FAE7C&fire=D3A54A&currStreakLabel=4FAE7C&sideLabels=E8ECF3&border=263248&hide_border=false" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nuran-Dewaraja&bg_color=0D1420&color=4FAE7C&line=4FAE7C&point=D3A54A&area=true&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🌱 Currently Learning
+
+| | |
+|---|---|
+| ⚙️ | Advanced .NET &amp; Web API development |
+| ⚛️ | React &amp; modern frontend architecture |
+| 🅰️ | Angular application development |
+| 🧩 | Clean Architecture &amp; SOLID principles |
+| 🗄️ | Database optimization |
+| 🏗️ | Scalable enterprise application design |
+
+<br/>
+
+<div align="center">
+
+### 💡 Build with purpose. Learn continuously. Improve every day.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FAE7C,100:0D1420&height=100&section=footer" />
 
 </div>
