@@ -29,7 +29,7 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
+---
 
 ## 📟 &nbsp;whoami
 
@@ -43,7 +43,7 @@ currently_learning: [.NET/Web API, React architecture, Angular, Clean Architectu
 status:             open to collaboration 🤝
 ```
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
+---
 
 ## 🚀 &nbsp;What I Build
 
@@ -84,7 +84,7 @@ status:             open to collaboration 🤝
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
+---
 
 ## 🧱 &nbsp;Tech Stack
 
@@ -124,7 +124,7 @@ status:             open to collaboration 🤝
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
+---
 
 ## 🐍 &nbsp;Contribution Snake
 
@@ -133,19 +133,24 @@ status:             open to collaboration 🤝
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
 
-> 📌 **One-time setup needed:** this snake animates automatically once you add the free
-> [`Platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it redraws
-> itself every day from your real contribution graph. Steps: create a workflow file at
-> `.github/workflows/snake.yml` in this same `Nuran-Dewaraja/Nuran-Dewaraja` repo using the
-> action's example config, enable Actions, and it publishes the SVGs to an `output` branch —
-> the two links above already point there.
+> ⚠️ **Meka thawama penne na nam eyata hේthuwa:** meka thiyenne `output` kiyana branch ekaka thiyena
+> SVG file ekakට point karala — eth eka branch eka thawama repo eke hදla na. Ehema hදannta:
+> 1. `Nuran-Dewaraja/Nuran-Dewaraja` repo eke `.github/workflows/snake.yml` kiyala file ekak hදanna
+>    ([`Platane/snk`](https://github.com/Platane/snk) example config eka use karanna).
+> 2. Repo eke **Settings → Actions → General** yanna, workflow permissions **"Read and write permissions"**
+>    karala save karanna.
+> 3. Workflow eka **Actions** tab eken run karanna (nathnam push ekak karanna) — eka auto-eke `output`
+>    branch eka hදla, mel image dekama live venawa.
+>
+> Setup eka karanna kalin mema section eka README eke thiyanna epa nam, methana comment karala
+> daanna puluwan — anith ewaට bhalapayan velak na.
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
+---
 
 ## 📊 &nbsp;GitHub Activity
 
@@ -160,7 +165,7 @@ status:             open to collaboration 🤝
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
+---
 
 ## 🌱 &nbsp;Currently Learning
 
