@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1420,100:4FAE7C&height=200&section=header&text=Nuran%20Dewaraja&fontSize=48&fontColor=E8ECF3&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=8C97AC&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1420,50:1A4A33,100:4FAE7C&height=220&section=header&text=Nuran%20Dewaraja&fontSize=48&fontColor=E8ECF3&fontAlignY=35&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18&descColor=8C97AC&animation=twinkling" />
 
 <br/>
 
@@ -30,6 +30,27 @@ domains: [ERP, POS, Inventory, Restaurant Management, Business Systems]
 currently_learning: [.NET/Web API, React architecture, Angular, Clean Architecture, SOLID]
 status: open to collaboration 🤝
 ```
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+> 📌 **One-time setup needed:** this snake animates automatically once you add the free
+> [`Platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it redraws
+> itself every day from your real contribution graph. Steps: create a workflow file at
+> `.github/workflows/snake.yml` in this same `Nuran-Dewaraja/Nuran-Dewaraja` repo using the
+> action's example config, enable Actions, and it publishes the SVGs to an `output` branch —
+> the two links above already point there.
 
 <br/>
 
@@ -146,6 +167,6 @@ status: open to collaboration 🤝
 
 ### 💡 Build with purpose. Learn continuously. Improve every day.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FAE7C,100:0D1420&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FAE7C,50:1A4A33,100:0D1420&height=110&section=footer&animation=twinkling" />
 
 </div>
