@@ -1,17 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1420,50:1A4A33,100:4FAE7C&height=220&section=header&text=Nuran%20Dewaraja&fontSize=48&fontColor=E8ECF3&fontAlignY=35&desc=Associate%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18&descColor=8C97AC&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1420,50:1A4A33,100:4FAE7C&height=230&section=header&text=Hi,%20I'm%20Nuran%20👋&fontSize=46&fontColor=E8ECF3&fontAlignY=38&desc=Associate%20Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18&descColor=8C97AC&animation=twinkling" />
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=3000&pause=800&color=4FAE7C&center=true&vCenter=true&width=600&lines=Building+ERP+%2F+POS+%2F+Inventory+systems;C%23+%2F+.NET+%C2%B7+Angular+%2F+React+%C2%B7+Android;Turning+business+problems+into+software)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=3000&pause=800&color=4FAE7C&center=true&vCenter=true&width=650&lines=Building+ERP+%2F+POS+%2F+Inventory+systems;C%23+%2F+.NET+%C2%B7+Angular+%2F+React+%C2%B7+Android;Turning+business+problems+into+software)
 
-<p>
-  <a href="https://www.linkedin.com/in/nuran-dewaraja-1106aa325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Nuran-Dewaraja"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:nurandewaraja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/94717876993"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/nuran-dewaraja-1106aa325/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Nuran-Dewaraja">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:nurandewaraja@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/94717876993">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Nuran-Dewaraja&style=for-the-badge&color=4FAE7C&label=PROFILE+VIEWS" />
 
@@ -19,88 +29,29 @@
 
 <br/>
 
-## 📟 whoami
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
+
+## 📟 &nbsp;whoami
 
 ```yaml
-name: Nuran Dewaraja
-role: Associate Software Engineer
-education: Diploma in Software Engineering
-focus: [Full-Stack Development, Mobile Development, Software Architecture]
-domains: [ERP, POS, Inventory, Restaurant Management, Business Systems]
+name:               Nuran Dewaraja
+role:               Associate Software Engineer
+education:          Diploma in Software Engineering
+focus:              [Full-Stack Development, Mobile Development, Software Architecture]
+domains:            [ERP, POS, Inventory, Restaurant Management, Business Systems]
 currently_learning: [.NET/Web API, React architecture, Angular, Clean Architecture, SOLID]
-status: open to collaboration 🤝
+status:             open to collaboration 🤝
 ```
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> 📌 **One-time setup needed:** this snake animates automatically once you add the free
-> [`Platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it redraws
-> itself every day from your real contribution graph. Steps: create a workflow file at
-> `.github/workflows/snake.yml` in this same `Nuran-Dewaraja/Nuran-Dewaraja` repo using the
-> action's example config, enable Actions, and it publishes the SVGs to an `output` branch —
-> the two links above already point there.
-
-<br/>
-
-## 🧱 Stack
+## 🚀 &nbsp;What I Build
 
 <table width="100%">
 <tr>
-<td width="120" valign="top"><b>Mobile</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
-  <br/><sub>Room DB · Bluetooth &amp; POS peripherals · Thermal receipt printing</sub>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Frontend</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Backend</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
-  <br/><sub>REST APIs · Layered / entity-based architecture</sub>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Data</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,sqlite" />
-  <br/><sub>Entity Framework Core · Database design &amp; optimization</sub>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Tooling</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,figma" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚀 What I Build
-
-<table width="100%">
-<tr>
-<th align="left">🏢 Enterprise / ERP</th>
-<th align="left">🧾 POS / Restaurant</th>
-<th align="left">📱 Android</th>
+<th align="left" width="33%">🏢&nbsp; Enterprise / ERP</th>
+<th align="left" width="33%">🧾&nbsp; POS / Restaurant</th>
+<th align="left" width="34%">📱&nbsp; Android</th>
 </tr>
 <tr valign="top">
 <td>
@@ -133,9 +84,70 @@ status: open to collaboration 🤝
 </tr>
 </table>
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
 
-## 📊 GitHub Activity
+## 🧱 &nbsp;Tech Stack
+
+<table width="100%">
+<tr>
+<td width="130" valign="top"><b>📱 Mobile</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
+  <br/><sub>Room DB · Bluetooth &amp; POS peripherals · Thermal receipt printing</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🎨 Frontend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>⚙️ Backend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+  <br/><sub>REST APIs · Layered / entity-based architecture</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🗄️ Data</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,sqlite" />
+  <br/><sub>Entity Framework Core · Database design &amp; optimization</sub>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>🛠️ Tooling</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,figma" />
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+> 📌 **One-time setup needed:** this snake animates automatically once you add the free
+> [`Platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it redraws
+> itself every day from your real contribution graph. Steps: create a workflow file at
+> `.github/workflows/snake.yml` in this same `Nuran-Dewaraja/Nuran-Dewaraja` repo using the
+> action's example config, enable Actions, and it publishes the SVGs to an `output` branch —
+> the two links above already point there.
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
+
+## 📊 &nbsp;GitHub Activity
 
 <div align="center">
 
@@ -148,24 +160,24 @@ status: open to collaboration 🤝
 
 </div>
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="4"/>
 
-## 🌱 Currently Learning
+## 🌱 &nbsp;Currently Learning
 
-| | |
-|---|---|
-| ⚙️ | Advanced .NET &amp; Web API development |
-| ⚛️ | React &amp; modern frontend architecture |
-| 🅰️ | Angular application development |
-| 🧩 | Clean Architecture &amp; SOLID principles |
-| 🗄️ | Database optimization |
-| 🏗️ | Scalable enterprise application design |
+<table width="100%">
+<tr><td width="40">⚙️</td><td>Advanced .NET &amp; Web API development</td></tr>
+<tr><td>⚛️</td><td>React &amp; modern frontend architecture</td></tr>
+<tr><td>🅰️</td><td>Angular application development</td></tr>
+<tr><td>🧩</td><td>Clean Architecture &amp; SOLID principles</td></tr>
+<tr><td>🗄️</td><td>Database optimization</td></tr>
+<tr><td>🏗️</td><td>Scalable enterprise application design</td></tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-### 💡 Build with purpose. Learn continuously. Improve every day.
+### 💡 &nbsp;Build with purpose. Learn continuously. Improve every day.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FAE7C,50:1A4A33,100:0D1420&height=110&section=footer&animation=twinkling" />
 
