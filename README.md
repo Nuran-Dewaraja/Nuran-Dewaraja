@@ -148,7 +148,11 @@ contact: nurandewaraja@gmail.com
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg" alt="Nuran's contribution snake" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg" />
+    <img alt="Nuran's contribution snake" src="https://raw.githubusercontent.com/Nuran-Dewaraja/Nuran-Dewaraja/output/github-contribution-grid-snake.svg" width="95%" />
+  </picture>
 </div>
 
 <br/>
